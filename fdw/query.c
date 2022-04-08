@@ -1,4 +1,4 @@
-#include "fdw.h"
+#include "fdw_helpers.h"
 #include "common.h"
 #if PG_VERSION_NUM < 120000
 #include "optimizer/var.h"
